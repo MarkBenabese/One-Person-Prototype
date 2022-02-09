@@ -1762,3 +1762,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.09-00.27.47:536][864]AssetCheck: New page: Asset Save: multiple assets
 [2022.02.09-00.27.47:536][864]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2022.02.09-00.27.47:536][864]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.02.09-00.32.08:686][789]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
